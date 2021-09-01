@@ -1,6 +1,19 @@
-# Codecademy + StreetEasy
-
+# Multplie Linear Regression - Street Easy
 Codecademy multiple linear regression project using StreetEasy data.
+This project uses multiple linear regression to predict rent prices for New York City apartments based on various apartment features.
+
+## built with
+* Python 3
+* Jupyter Notebook
+
+## data sources
+StreetEasy dataset (outlined in **Codecademy + StreetEasy**)
+
+## acknowledgements
+* StreetEasy (full acknowledgements outlined in **Codecademy + StreetEasy**)
+* [Codecademy Data Scientist Skill Path](https://www.codecademy.com/learn)
+
+# Codecademy + StreetEasy
 
 https://www.codecademy.com/content-items/d19f2f770877c419fdbfa64ddcc16edc
 
